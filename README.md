@@ -8,17 +8,12 @@ This project analyzes the contraction of the Medicare Prescription Drug Plan (PD
 
 Data Sources
 
-┌─────────────────────────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┬──────┐
-│             Dataset             │                                                        Source                                                         │ Year │
-├─────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┼──────┤
-│ CMS Landscape Source File (PDP) │ Centers for Medicare & Medicaid Services (https://www.cms.gov/medicare/coverage/prescription-drug-coverage)           │ 2022 │
-├─────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┼──────┤
-│ CMS Landscape Source File       │ Centers for Medicare & Medicaid Services (https://www.cms.gov/medicare/coverage/prescription-drug-coverage)           │ 2026 │
-├─────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┼──────┤
-│ Medicare Monthly Enrollment     │ Centers for Medicare & Medicaid Services (https://data.cms.gov/resources/medicare-monthly-enrollment-data-dictionary) │ 2026 │
-├─────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┼──────┤
-│ Rural-Urban Continuum Codes     │ USDA Economic Research Service (https://www.ers.usda.gov/data-products/rural-urban-continuum-codes/documentation)     │ 2023 │
-└─────────────────────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┴──────┘
+| Dataset | Source | Year |
+  |---------|--------|------|   
+  | CMS Landscape Source File (PDP) | [Centers for Medicare & Medicaid Services](https://www.cms.gov/medicare/coverage/prescription-drug-coverage) | 2022 |
+  | CMS Landscape Source File | [Centers for Medicare & Medicaid Services](https://www.cms.gov/medicare/coverage/prescription-drug-coverage) | 2026 |
+  | Medicare Monthly Enrollment | [Centers for Medicare & Medicaid Services](https://data.cms.gov/resources/medicare-monthly-enrollment-data-dictionary) | 2026 |
+  | Rural-Urban Continuum Codes | [USDA Economic Research Service](https://www.ers.usda.gov/data-products/rural-urban-continuum-codes/documentation) | 2023 |
   
 Data files are not included in this repository due to their large size. All CMS datasets are publicly available at cms.gov (https://www.cms.gov) and the USDA dataset is available at ers.usda.gov (https://www.ers.usda.gov).
 
