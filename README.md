@@ -1,4 +1,4 @@
-The Vanishing Market: The Vanishing Market: Who Gets Left Behind as Medicare Drug Plans Disappears
+The Vanishing Market: Who Gets Left Behind as Medicare Drug Plans Disappears
   
 Luiza Swierzawska, Columbia Journalism School, Spring 2026
 
